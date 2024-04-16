@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1><big>This is header</big></h1>
+        <h1><big>My Portfolio</big></h1>
+<pre>
+        <h1><a href="./Nav menu/TrendingPost.html">Trending</a></h1>   <h1><a href="./Nav menu/catagory.html">Catagories</a></h1>   <h2><a href="./Nav menu/aboutus.html">About Us</a></h2>
+</pre>
+
+    </header>
+<hr><hr><hr><hr><hr><hr>
+<main>
+
+<section>My Education : Architecture
+    My interest : learning
+    My age : 25
+</section>
+
+<article> <h3>My story :</h3><pre>‘Peace’ seems unutterable these days. A third rail. A lightning rod. Like it’s too distant to keep hoping for. 
+    Even praying for it—with all weeping and the help of heaven’s power—feels somewhat foolish, childish. How suddenly our feeds became floods of carnage and vitriol. How quickly we lost hopeful footing and got swept. How many times in recent years has this been true.
+
+    Talk of dignity and lines of demarcation are duly drawn. Exceptions are suggested, lest we be seen as siding with ‘them.’ Stand for solidarity with those who suffer on every side and you’re thought spineless. 
+    Ridiculed. ‘Love your enemies’ has never sounded so heretical. “Surely not,” they must’ve thought. “Surely not,” we think.</pre> </article>
+
+    <aside> This a aside tag for ADs space or some thinf extre we dont want search engine to read or index</aside>
+<hr><hr>
+<h4>make links open on new tab and make clickable images</h4>
+
+<a href="https://www.google.com"  target="_main" >Google</a>
+<a href="https://www.facebook.com" target="_main"> <h4>facebook<sup>Opens fb in new tab</sup></h4></a>
+<h3>make image clicable and opnes in new tab</h3>
+
+<a href="https://www.google.com" target="_main"> <img src="https://cdn2.hubspot.net/hubfs/53/image8-2.jpg" alt="Google LOGO"  height=100 ></a>
+
+
+<hr><hr>
+
+<h4>lets try div</h4>
+
+<div><h5>NAme</h5>
+<h5>model
+    <h5> manufactured</h5>
+    <h3> test text</h3>
+</div>
+
+<span><p><big>span testing</big></p></span>
+<hr><hr><hr><hr><hr>
+
+<h1>22/2/2024</h1>
+
+<a href="https://www.google.com" target="_main" > google <sup>search engine</sup></a>
+
+<a href="https://www.google.com" target="_main"> <img src="https://scontent.fisb17-1.fna.fbcdn.net/v/t39.30808-6/417471550_122125671644168224_4964191209944149905_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=3635dc&_nc_ohc=e6ThZSXcPsIAX_KJK3f&_nc_ht=scontent.fisb17-1.fna&oh=00_AfAHtsVoWr_pvrBrQ5orfgDruv2alPXVKlMuHR5r_dwYFA&oe=65DB66FD" 
+    alt="fb image" 
+    width="50"
+    height="30">
+
+</a>
+
+
+</main>
+
+<footer>
+
+<h3>This is footer</h3>
+
+<p>Mycontact <sup>Demo@demo.com</sup></p>
+
+
+
+<hr><hr><hr><hr><hr><hr>
+<h1>12/23/2024</h1>
+<hr>
+<ul>
+     <li>facebook</li>
+     <ul>
+        <li>socail media</li>
+        <li>video</li>
+
+     </ul>
+     <li>google</li>
+     <li>twitter</li>
+</ul>
+
+<ol>
+    <li>facebook</li>
+    <li>google</li>
+    <li>twitter</li>
+</ol>
+
+<span>
+<h1>creating tables</h1>
+
+<table>
+    <thead>
+    <caption>
+        creating demo table
+    </caption>
+<tr>
+    
+<th colspan="3" >
+     information</th>
+
+</thead>
+</tr>
+<tbody>
+<tr>
+    <td>Haris</td>
+    <td>graduated</td>
+    <td>25</td>
+</tr>
+</tbody>
+</table>
+</span>
+
+
+<!-- creating forms -->
+<h2>creating forms</h2>
+
+<form action="action.php">
+<input type="text" placeholder="Write your name">
+<input type="password" placeholder="Write your password">
+
+
+</form>
+<!-- defining radio button -->
+
+<h2>defining radio button</h2>
+
+<input type="radio" value="class 4" name="class" > class = 4
+<input type="radio" value="class 5" name="class" > class = 5
+
+ <h3>assign id</h3>
+<label for="4">
+<input type="radio" value="class 4" name="class" id="4"> class=4
+</label>
+<label for="5">
+<input type="radio" value="class 5" name="class" id="5" > class=5
+</label>
+<a href=""></a>
+
+</footer>
+</body>
+</html>
